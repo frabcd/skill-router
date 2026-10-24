@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.skill-router/
+.local/
+dist/
+build/
+*.egg-info/

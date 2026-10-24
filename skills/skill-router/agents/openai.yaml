@@ -1,0 +1,4 @@
+interface:
+  display_name: "SkillRouter"
+  short_description: "Route skills and verify their promised outcomes"
+  default_prompt: "Use $skill-router to select relevant skills, load their instructions, and verify the finished work."
